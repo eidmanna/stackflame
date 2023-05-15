@@ -7,6 +7,10 @@
     "email": "mormegil@centrum.cz"
   },
   "license": "ISC",
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp"
+  },
   "devDependencies": {
     "@types/d3": "^5.7.2",
     "browserify": "^16.5.0",
